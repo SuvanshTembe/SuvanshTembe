@@ -1,51 +1,39 @@
+<!-- 🌌 CYBERPUNK DEVELOPER README -->
 
+<h1 align="center">⚡ SuvanshTembe ⚡</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Initializing+neon+environment...;Loading+skills+and+AI+modules...;System+Online+✅;Welcome+to+my+GitHub+mainframe." />
+</p>
 
+<p align="center">
+  <em>"Neon lights, dark terminals, and endless code."</em>
+</p>
 
-### 🔐 SYSTEM INFO
-<pre>
-<code>
-username: SuvanshTembe
-role: Student | Full-Stack Developer
-location: Pune,Maharashtra , India
-specialization: [ MERN Stack]
-status: Active & Ready to Collaborate
-education: Computer Science Student
-</code>
-</pre>
+### 🧬 SYSTEM IDENTITY
 
----
-
-### ⚡ TECH STACK
-<pre>
-<code>
-tech_stack = {
-    "languages": ["C++", "JavaScript"],
-    "frontend": ["React.js", "HTML5", "CSS3", "TailwindCss"],
-    "backend": ["Node.js", "Express.js"],
-    "database": ["MongoDB", "MySQL"],
-    "tools": ["Git", "VS Code", "Postman"],
-    "ai_tools": ["Claude.ai", "ChatGPT"],
-    "design": ["Canva", "Figma"]
+```yaml
+> USER: Full Stack Developer  
+> LOCATION: Pune, India  
+> ALIGNMENT:  MERN Stack | Cloud & DevOps  
+> STATUS: Active • Learning • Open to Collaborate  
+> MOTTO: “Building systems that shine through the noise.”
+```
+⚙️ TECH STACK v2.5
+```yaml
+{
+  "Languages": ["C++", "Python", "JavaScript"],
+  "Frontend": ["React", "Redux", "React Router"],
+  "Backend": ["Node.js", "Express.js"],
+  "Database": ["MySQL", "MongoDB"],
+  "Cloud_&_DevOps": ["AWS (EC2, S3, SNS)"],
+  "Version_Control": ["Git", "GitHub"],
+  "API": ["RESTful API"],
+  "Core_Fundamentals": ["OOPs", "DBMS", "OS", "CN", "DSA"]
 }
-</code>
-</pre>
+```
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SuvanshTembe&show_icons=true&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=SuvanshTembe&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuvanshTembe&layout=compact&theme=tokyonight&hide_border=true" /> </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,100:3333ff&height=100&section=footer&text=//%20End%20of%20Transmission%20&fontColor=ffffff&fontAlignY=60&fontSize=20" /> </p> ```
 
----
 
 
-<!-- <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:nanditanpatil14@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://portfolio-site-eight-snowy.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-</p> -->
-
----
-
-<p align="center"><i>✨ "Code. Create. Collaborate." ✨</i></p>
