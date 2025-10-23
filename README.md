@@ -66,7 +66,7 @@ tech_stack = {
 
 ## ⚡ **CODING ACTIVITY**
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SuvanshTembe&bg_color=0d1117&color=ffffff&line=00f5ff&point=00f5ff&area=true&hide_border=true&custom_title=Nandita's%20Contribution%20Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SuvanshTembe&bg_color=0d1117&color=ffffff&line=00f5ff&point=00f5ff&area=true&hide_border=true&custom_title=%20Contribution%20Graph" />
 
 </div>
 
