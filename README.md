@@ -1,7 +1,7 @@
 🔐 SYSTEM INFO
-username: NanditaPatil-dotcom
+username: SuvanshTembe
 role: Student | Full-Stack Developer
-location: Bengaluru, Karnataka, India
-specialization: [AI/ML, MERN Stack,Blockchain]
+location: Pune,Maharashtra India
+specialization: MERN stack
 status: Active & Ready to Collaborate
 education: Computer Science Student
