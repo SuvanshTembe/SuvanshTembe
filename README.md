@@ -44,7 +44,7 @@ tech_stack = {
 
 ## 📊 **GITHUB ANALYTICS**
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SuvanshTembe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=ffffff&ring_color=00f5ff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SuvanshTembe&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=ffffff&ring_color=00f5ff"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuvanshTembe&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=ffffff"/>
 
