@@ -71,12 +71,17 @@ tech_stack = {
 </div>
 
 ---
+<div align="center">
+  
+#  **Badges**
 
+  
+[![An image of @suvanshtembe's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/suvanshtembe)](https://holopin.io/@suvanshtembe)
+</div>
 
 <div align="center">
 
-</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7,16,20&height=100&section=footer&animation=twinkling&fontColor=00f5ff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7,16,20&height=100&section=footer&animation=twinkling&fontColor=00f5ff"/>
 
 </div>
